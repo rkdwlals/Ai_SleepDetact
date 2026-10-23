@@ -32,5 +32,3 @@ python "미디어 파이프 얼굴 좌표(최종판).py"
 ```
 
 카카오톡 알림을 쓰려면 Kakao Developers 앱 키와 `kakao_token.json`이 필요합니다. `Sound.py`에 남아 있는 앱 키는 더 이상 사용하지 않는 키입니다.
-
-README 정리는 Claude(AI)의 도움을 받았습니다.
